@@ -1,3 +1,3 @@
 # About me
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jirp-upc&theme=github)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirp-upc&layout=compact&langs_count=6&theme=dark)
